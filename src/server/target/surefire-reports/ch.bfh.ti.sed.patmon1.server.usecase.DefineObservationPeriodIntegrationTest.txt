@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ch.bfh.ti.sed.patmon1.server.usecase.DefineObservationPeriodIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.242 sec

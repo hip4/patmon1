@@ -1,0 +1,15 @@
+ch.bfh.ti.sed.patmon1.server
+ch.bfh.ti.sed.patmon1.server.context
+ch.bfh.ti.sed.patmon1.server.context.impl
+ch.bfh.ti.sed.patmon1.server.controller
+ch.bfh.ti.sed.patmon1.server.controller.fault
+ch.bfh.ti.sed.patmon1.server.controller.impl
+ch.bfh.ti.sed.patmon1.server.domain
+ch.bfh.ti.sed.patmon1.server.domain.exception
+ch.bfh.ti.sed.patmon1.server.domain.impl
+ch.bfh.ti.sed.patmon1.server.gtk
+ch.bfh.ti.sed.patmon1.server.gtk.mock
+ch.bfh.ti.sed.patmon1.server.model
+ch.bfh.ti.sed.patmon1.server.model.sbo
+ch.bfh.ti.sed.patmon1.server.persistence
+ch.bfh.ti.sed.patmon1.server.persistence.mock

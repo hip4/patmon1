@@ -1,0 +1,45 @@
+$Id: README 236 2012-06-17 22:35:57Z harip1 $
+
+
+                     |                  |    o          |                       o|              
+ ,---.,---.,-.-.,---.|---     ,---.,---.|--- .,---.,---.|---     ,-.-.,---.,---..|--- ,---.,---.
+ |    |   || | ||---'|        |   |,---||    ||---'|   ||        | | ||   ||   |||    |   ||    
+ `---'`---'` ' '`---'`---'    |---'`---^`---'``---'`   '`---'    ` ' '`---'`   '``---'`---'`    
+                              |                                                                 
+
+
+Team:
+Comet Engineering
+
+Project:
+Comet Patient Monitor
+
+Client:
+Prof. Dr. Olivier Biberstein
+
+Developers:
+Patrick Haring HARIP1
+Christian Bürgi BURGC5
+
+Remarks:
+For license see file LICENSE
+
+
+Changelog:
+==========
+
+Deliverable 4:
+--------------
+
+The sources for the deliverable 4 are in the folder src/server.
+The reports (javadoc, cobertura) are in the folder reports.
+
+Building is done with maven. In order to trigger a build execute to following commandline in the folder src/ (where the super-pom.xml is located):
+$> mvn clean install
+
+In order to generate the reports execute the following command (in the same folder):
+$> mvn clean install cobertura:cobertura javadoc:javadoc
+
+The reports will be located in the folder src/server/target/site
+
+In order to run the client you have to start the server first. Then you can log in with username patrick and password 12345

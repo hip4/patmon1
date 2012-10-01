@@ -1,0 +1,9 @@
+*.pdf
+*.log
+*.aux
+*.out
+*.synctex
+*.toc
+*.bak
+*LatexianTemp*
+*.gin
